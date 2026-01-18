@@ -1,6 +1,6 @@
 ## Assembly instructions:
 
-(For the Fun Edition, skip step 5, 13, 14, 15)
+(For the Fun Edition, skip step 5, 13, 14, 15 and instead of putting micropore tape over 3/4 of the baffle, put only half)
 
 1. Solder wires into the 3.5mm sockets.
 ![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_170826.jpg)
